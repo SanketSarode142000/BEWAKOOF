@@ -39,9 +39,13 @@ Skills Demonstrated
 
 
 Automation Framework: Selenium with Cucumber
+
 Design Pattern: POM
+
 Manual Testing Documentation: Test Plans, RTM, Bug Reports, Execution Summary
+
 Testing Types: Functional Testing, UI Testing, Regression Testing, Usability Testing
+
 Languages and Tools: Java, Selenium, Cucumber, Test Reporting Tools
 
 
@@ -49,7 +53,11 @@ Test Scenarios Automated
 
 
 Login and Logout: Validated user authentication and session management.
+
 Product Management: Automated CRUD operations for product listings.
+
 Cart and Checkout: Verified cart updates, payment workflows, and order confirmation.
+
 UI Validation: Tested UI elements, forms, and error messages for correctness.
+
 Navigation and Usability: Ensured seamless functionality of menus and navigation links.
